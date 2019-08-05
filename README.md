@@ -1,2 +1,2 @@
 # pacman
-##a game
+a game
